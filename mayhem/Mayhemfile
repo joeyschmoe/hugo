@@ -1,4 +1,4 @@
 project: hackathon
 target: fuzzmarkdownify
 cmds:
-- cmd: /out/fuzzmarkdownify
+- cmd: /out/fuzzmarkdownify @@
